@@ -1,0 +1,10 @@
+####
+#DATASET：
+##BOOKCOVER：The data can be obtained as follows: https://github.com/uchidalab/book-dataset/tree/master/Task1
+
+##kagglegarbageclassification：
+##https://www.cvmart.net/dataSets/detail/242
+
+
+##Plants_2：
+https://storage.googleapis.com/kaggle-data-sets/2471641/4191272/bundle/archive.zip?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=gcp-kaggle-com%40kaggle-161607.iam.gserviceaccount.com%2F20250226%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20250226T045812Z&X-Goog-Expires=259200&X-Goog-SignedHeaders=host&X-Goog-Signature=804448cbbb4f81ba3bbcf55243dcfe3dcdee3469d3f18b98ad585539ed15deccfe9088324fe89387f04772d6641fcc1559a4b0242045aec107cbc379c7371d864f544085d0ea6d7cf2db25de22417a754d256ae544d5c9ebaec50e9610ad334f09637fd32cbead7db1805d161b3f14db3bf6a0a901865f2241c7f763377b9b75387c0bf73c3f41354724198669faceb2891b3d23b264af809a74242f34082094ac22475350e099b549d6d23a92d266a8701f928f7efb7766fb6cef52fdcdd18f9b1e9e9e6697ea208e4f49bbf430027ce72ae9fe8f8d134708d99833b0748e788e51d57d0b3369d1f10a9e1ab5fe1e6421ff2b19909c3a84f17cd8da9f49b440
